@@ -2,7 +2,7 @@
 
 ## About
 
-This is a weather app made using vue.js and openweathermap api. It contains a serach box in which you can search any city and the weather of that city will be displayed along with other information
+This is a weather app made using vue.js and openweathermap api. It contains a serach box in which you can search any city and the weather of that city will be displayed along with other information. For better view open the app in inspect mode.
 
 ### Api Used - https://openweathermap.org/api
 

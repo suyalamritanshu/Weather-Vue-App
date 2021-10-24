@@ -1,5 +1,7 @@
 # Weather App
 
+For better view open the app in inspect mode.
+
 Site is deployed at - https://festive-kepler-220844.netlify.app/
 
 ## About
